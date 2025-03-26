@@ -1,0 +1,3 @@
+Frecvența cuvintelor în fișier:
+
+Timp de execuție: 0 milisecunde
