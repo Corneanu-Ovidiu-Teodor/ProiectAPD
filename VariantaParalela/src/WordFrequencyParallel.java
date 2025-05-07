@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 
 public class WordFrequencyParallel {
 
-    private static final int NUM_THREADS = Runtime.getRuntime().availableProcessors(); // sau definește un număr fix
+    private static final int NUM_THREADS = Runtime.getRuntime().availableProcessors(); 
 
     public static void main(String[] args) throws IOException, InterruptedException, ExecutionException {
         String filePath = "C:\\Users\\lupur\\IdeaProjects\\VariantaParalela\\src\\input";
